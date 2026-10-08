@@ -1,3 +1,5 @@
+## SQL Exercise 3 – Case Statements 
+
 ## About
 
 This repository contains my submission for Exercise 3: "SQL CASE Statements." The exercise covers 10 handwritten SQL queries based on 10 tables (`products`, `orders`, `employees`, `students`, `deliveries`, `tickets`, `attendance`, `products_inventory`, `classes`, and `payments`), focusing on classifying rows into labelled categories using `CASE` expressions.
